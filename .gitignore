@@ -1,0 +1,22 @@
+# Build artifacts
+build/
+*.vvp
+*.vcd
+*.wlf
+*.log
+
+# QuestaSim / ModelSim
+work/
+transcript
+vsim.wlf
+*.mti
+modelsim.ini
+
+# Editor / OS
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
